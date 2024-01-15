@@ -1,0 +1,6 @@
+github.com/s-yakubovskiy/inst2vk v0.0.0-20230714081116-a0f1763b52a0 h1:Ko8pimnJzL7Dwvbqj2QZgHexite0FjuZ2HVtRHLATNs=
+github.com/s-yakubovskiy/inst2vk v0.0.0-20230714081116-a0f1763b52a0/go.mod h1:8b7ensR50ASBGOzZ/ZuuScDsBFF48XU2r3QT6W32DSo=
+github.com/s-yakubovskiy/inst2vk v1.0.0 h1:BqQj2Vt+XPhvZUfo5NFQguI3N9+10U/qIlk+h/zyqkk=
+github.com/s-yakubovskiy/inst2vk v1.0.0/go.mod h1:EwhYTfONMR48jqGaiOBdxfLcsLIwJdX13Mcv3s/YQ2s=
+github.com/zelenin/go-tdlib v0.7.1 h1:szKkr3G7yG9kiw2IXt0lFyZ4JgBt82SbOmUqsVqJMqA=
+github.com/zelenin/go-tdlib v0.7.1/go.mod h1:yqNbNZenZtXPKgf9hDuyZbsRz7qlxOxdfKOc+sAxxIE=
